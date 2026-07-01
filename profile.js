@@ -2,7 +2,7 @@ const members = {
 
 1:{
 
-photo:"/home/user/Screenshots/Screenshot from 2026-06-22 16-01-33.png",
+photo:"Familypics/father.png",
 
 name:"Kiran Kumar",
 
@@ -28,7 +28,7 @@ description:"Founder of Kanigiri Group of Companies. With over two decades of le
 
 2:{
 
-photo:"/home/user/Screenshots/Screenshot from 2026-06-22 15-41-03.png",
+photo:"Familypics/mother.png",
 
 name:"Sandhya",
 
@@ -54,7 +54,7 @@ description:"Responsible for planning, administration and ensuring smooth operat
 
 3:{
 
-photo:"/home/user/Screenshots/Screenshot from 2026-06-22 16-05-08.png",
+photo:"Familypics/brother.png",
 
 name:"Mahesh",
 
@@ -70,7 +70,7 @@ occupation:"Student",
 
 experience:"2 Years",
 
-email:"rohith@gmail.com",
+email:"mahesh@gmail.com",
 
 phone:"+91 9876543212",
 
@@ -80,7 +80,7 @@ description:"A passionate learner interested in business management and digital 
 
 4:{
 
-photo:"/home/user/Screenshots/Screenshot from 2026-06-22 15-53-52.png",
+photo:"Familypics/me.png",
 
 name:"Mahathi",
 
@@ -106,7 +106,7 @@ description:"Passionate about Web Development, Full Stack Technologies, Cyber Se
 
 5:{
 
-photo:"/home/user/Screenshots/Screenshot from 2026-06-22 16-07-24.png",
+photo:"Familypics/grandmother.png",
 
 name:"Lakshmi",
 
@@ -132,7 +132,7 @@ description:"Provides guidance, values and wisdom that strengthen the unity and 
 
 6:{
 
-photo:"/home/user/Screenshots/Screenshot from 2026-06-22 16-09-52.png ",
+photo:"Familypics/grandfather.png",
 
 name:"Venkata Rao",
 
@@ -148,7 +148,7 @@ occupation:"Retired Government Officer",
 
 experience:"35+ Years",
 
-email:"ramarao@gmail.com",
+email:"venkatarao@gmail.com",
 
 phone:"+91 9876543215",
 
