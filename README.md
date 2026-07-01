@@ -45,7 +45,27 @@ family-showcase/
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+### 🏠 Home Page
+
+![Home Page](images/home.png)
+
+---
+
+### 👨‍👩‍👧‍👦 Family Members Section
+
+![Family Members](images/Family_members.png)
+
+---
+
+### 👤 Member Profile
+
+![Profile Page](images/profile.png)
+
+---
+
+### 🌙 Dark Mode
+
+![Dark Mode](images/darkmode.png)
 
 ---
 
